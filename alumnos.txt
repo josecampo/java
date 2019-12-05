@@ -1,0 +1,6 @@
+Pepito, López, Full Stack Dev, 4 5 8 10
+Pepita, Martínez, Full Stack Dev, 6 7 7 9
+Laurita, Campos, Data Mining, 5 6
+Roberto, Sánchez, Data Mining, 7 1 2
+Carmen, Calvo, Lingüistica, 10 10 10 9 
+Jose, Campo, Full Stack Dev, 8,9,10,10
